@@ -1,1 +1,1 @@
-app-store-server-library==1.4.0
+app-store-server-library==1.5.0
